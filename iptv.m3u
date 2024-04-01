@@ -1,8 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="HBO",HBO
-http://41.205.93.154/HBO/index.m3u8
-#EXTINF:-1 group-title="HBO",HBO2
 http://190.171.101.36/HBO/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="HBO",HBO+
 http://170.254.18.106/HBO_PLUS/index.m3u8
@@ -10,8 +8,6 @@ http://170.254.18.106/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO-HD
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-#EXTINF:-1 group-title="HBO",HBO-Family
-https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO-Family2
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 #EXTINF:-1 group-title="HBO",HBO-Family3
@@ -42,10 +38,13 @@ http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 ##EXTINF:-1 group-title="Nature",Nature
 #https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 group-title="Nature",Nature-2
+#EXTINF:-1 group-title="Nature",Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Animal Planet",Animal Planet - 1
+#EXTINF:-1 group-title="Animal Planet",Animal Planet
 https://kusnadipepenk.github.io/ntn/animal.m3u8
+#EXTINF:-1 group-title="AFV",AFV
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+###
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" group-title="China",CCTV-2 财经
@@ -73,7 +72,7 @@ https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" group-title="China",CCTV-17 农业农村
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-
+###
 #EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" group-title="Hong Kong",RTHK 港台電視31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" group-title="Hong Kong",RTHK 港台電視32
@@ -92,12 +91,11 @@ http://php.17186.eu.org/phtv/fhzx.m3u8
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="Hong Kong",TVB-Jade 翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-
 #EXTINF:-1 tvg-id="iCABLENewsChannel.hk",group-title="Hong Kong",有線新聞台 i-Cable 24-hour News Channel (720p)
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+###
 #EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" tvg-id="CTVNewsChannel.tw" group-title="Taiwan",CTV News Channel (中視新聞台) Ⓨ
 https://www.youtube.com/watch?v=TCnaIE_SAtM
-
 #EXTINF:-1 tvg-name="TaiwanPlus Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/640px-Taiwan_Plus_logo.svg.png" tvg-id="TaiwanPlus.tv" group-title="Taiwan",TaiwanPlus Ⓨ
 https://www.youtube.com/watch?v=dZp87qnWelE
 #EXTINF:-1 tvg-name="民視無線台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/640px-FTV_HD_Logo.svg.png" tvg-id="FTV.tw" group-title="Taiwan",民視無線台
@@ -112,8 +110,4 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 https://www.youtube.com/watch?v=uDqQo8a7Xmk
 #EXTINF:-1 tvg-name="TTV News (台視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-id="TTVNews.tw" group-title="Taiwan",TTV News (台視新聞台) Ⓨ
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-name="Congress Channel 1 Ⓨ" tvg-logo="https://i.imgur.com/0dVlvsz.png" tvg-id="CongressChannel1.tw" group-title="Taiwan",Congress Channel 1 Ⓨ
-https://www.youtube.com/watch?v=4HysYHJ6GkY
-#EXTINF:-1 tvg-name="Congress Channel 2 Ⓨ" tvg-logo="https://i.imgur.com/htGr996.png" tvg-id="CongressChannel2.tw" group-title="Taiwan",Congress Channel 2 Ⓨ
-https://www.youtube.com/watch?v=RAP4h3q6_Sg
 
