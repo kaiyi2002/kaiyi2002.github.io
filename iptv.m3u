@@ -2,10 +2,20 @@
 
 #EXTINF:-1 group-title="HBO",HBO
 http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO2
+http://190.171.101.36/HBO/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="HBO",HBO+
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO-Extreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO-HD
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-#EXTINF:-1 group-title="HBO",HBO-Select
-http://62.210.209.138:41000/movie/v52/v43/6870.mp4
+#EXTINF:-1 group-title="HBO",HBO-Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="HBO",HBO-Family2
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 group-title="HBO",HBO-Family3
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="HBO",HBO-Comedy
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 #EXTINF:-1 group-title="HBO",HBO-Signature
@@ -80,6 +90,8 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",group-title="Hong Kong",凤凰资讯 (720p)
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="Hong Kong",TVB-Jade 翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 
 #EXTINF:-1 tvg-id="iCABLENewsChannel.hk",group-title="Hong Kong",有線新聞台 i-Cable 24-hour News Channel (720p)
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
