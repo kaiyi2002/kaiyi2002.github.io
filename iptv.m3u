@@ -74,14 +74,14 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 tvg-name="TVB Finance (Sports & Information Channel)" tvg-logo="https://i.imgur.com/Fkkp7x7.png" tvg-id="TVBFinanceSportsInformationChannel.hk" group-title="Hong Kong",TVB Finance (Sports & Information Channel)
 https://tvp22.sky4k.top/index2.php
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk",Phoenix Chinese Channel (鳳凰衛視中文) (576p)
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk",group-title="Hong Kong",Phoenix Chinese Channel (鳳凰衛視中文) (576p)
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",凤凰资讯1 (720p)
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",group-title="Hong Kong",凤凰资讯1 (720p)
 http://php.17186.eu.org/phtv/fhzx.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",凤凰资讯 (720p)
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",group-title="Hong Kong",凤凰资讯 (720p)
 http://r.jdshipin.com/0Rp07
 
-#EXTINF:-1 tvg-id="iCABLENewsChannel.hk",有線新聞台 i-Cable 24-hour News Channel (720p)
+#EXTINF:-1 tvg-id="iCABLENewsChannel.hk",group-title="Hong Kong",有線新聞台 i-Cable 24-hour News Channel (720p)
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="CTV News Channel (中視新聞台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" tvg-id="CTVNewsChannel.tw" group-title="Taiwan",CTV News Channel (中視新聞台) Ⓨ
 https://www.youtube.com/watch?v=TCnaIE_SAtM
