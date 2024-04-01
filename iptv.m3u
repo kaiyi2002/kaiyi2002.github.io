@@ -44,6 +44,14 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1 group-title="AFV",AFV
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="NASA",NASA-UHD
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 group-title="NASA",NASA-Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="NASA",NASA-Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="NASA",NASA-ISS
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 ###
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
