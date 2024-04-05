@@ -52,8 +52,6 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6510/index.m3u8
 #EXTINF:-1 group-title="AMC",AMC+
 http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/amc.plus.us.m3u8
-#EXTINF:-1 group-title="AMC",AMC电影台
-http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
 #EXTINF:-1 group-title="CNBC",CNBC US
 http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cnbc.usa.us.m3u8
 #EXTINF:-1 group-title="CNN",CNN
