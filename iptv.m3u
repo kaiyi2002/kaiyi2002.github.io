@@ -27,15 +27,47 @@ https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b
 #EXTINF:-1 group-title="FOX", tvg-id="WNYWDT1.us",FOX 5 New York NY (WNYW) (720p)
 https://lnc-wnyw.tubi.video/index.m3u8
 #EXTINF:-1 group-title="CINEMAX",CINEMAX-1
-http://94.156.33.91:80/Cinemax/index.m3u8
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 #EXTINF:-1 group-title="MovieSphere",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hollywood",Hollywood-HD
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-#EXTINF:-1 group-title="SonyMovie",SonyMovie
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="SonyMovie",SonyMovie+1
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="SonyMovie",SonyMovie L1
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="SonyMovie",SonyMovie L2
+http://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="SonyMovie",SonyMovie L3
+http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/sony.movies.us.m3u8
+#EXTINF:-1 group-title="SonyMovie",SonyMovie+2
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="AMC",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="AMC",AMC5
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 group-title="AMC",AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="AMC",AMC CA
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6510/index.m3u8
+#EXTINF:-1 group-title="AMC",AMC+ L1
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/amc.plus.us.m3u8
+#EXTINF:-1 group-title="AMC",AMC+ L2
+http://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/amc.plus.us.m3u8
+#EXTINF:-1 group-title="AMC",AMC+ L3
+http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/amc.plus.us.m3u8
+#EXTINF:-1 group-title="AMC",AMC电影台
+http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
+#EXTINF:-1 group-title="CNBC",CNBC US L1
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cnbc.usa.us.m3u8
 #EXTINF:-1 group-title="CNN",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Disney",Disney Xd US L1
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.xd.usa.eastern.us.m3u8
+#EXTINF:-1 group-title="Disney",Disney Jr US L1
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.junior.usa.east.us.m3u8
+#EXTINF:-1 group-title="Disney",Disney Channel US L1
+http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/disney.eastern.us.m3u8
 ##EXTINF:-1 group-title="Nature",Nature
 #https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 group-title="Nature",Nature
