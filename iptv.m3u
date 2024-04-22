@@ -3,8 +3,10 @@
 http://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/history.channel.us.east.us.m3u8
 ##EXTINF:-1 group-title="Nature",Nature
 #https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 group-title="Nature",Nature
+#EXTINF:-1 Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 group-title="Animal Planet",Animal Planet
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1 group-title="NASA",NASA-Public
@@ -68,7 +70,7 @@ https://lnc-wnyw.tubi.video/index.m3u8
 #EXTINF:-1 group-title="BBC",BBC CA
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6510/index.m3u8
 #EXTINF:-1 group-title="CNBC",CNBC US
-http://tvnow.best/api/stream/andrei.ioanas@gmail.com/682375/livetv.epg/cnbc.usa.us.m3u8
+http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/cnbc.usa.us.m3u8
 #EXTINF:-1 group-title="CNN",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
