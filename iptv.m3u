@@ -67,8 +67,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
 #EXTINF:-1 group-title="FOX", tvg-id="WNYWDT1.us",FOX 5 New York NY (WNYW) (720p)
 https://lnc-wnyw.tubi.video/index.m3u8
-#EXTINF:-1 group-title="BBC",BBC CA
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6510/index.m3u8
+#EXTINF:-1 group-title="BBC",BBC World
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="CNBC",CNBC US
 http://tvnow.best/api/stream/bcandyone216@gmail.com/Love22458!/livetv.epg/cnbc.usa.us.m3u8
 #EXTINF:-1 group-title="CNN",CNN
